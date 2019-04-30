@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="lib" path="C:/Users/Denner/Documents/Servidor testes/spigot.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Denner/Downloads/MambaFactions_Premium_API.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Denner/Downloads/MassiveCore.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Denner/Downloads/MVdWPlaceholderAPI.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Denner/Downloads/PlaceholderAPI-2.9.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

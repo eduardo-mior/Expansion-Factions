@@ -1,0 +1,6 @@
+name: Expansion-Factions
+version: 2.0
+main: com.massivecraft.factions.FactionsExpansion
+authors: [RUSHyoutuber, String]
+depend: [MassiveCore, Factions]
+softdepend: [FTop, PlaceholderAPI, MVdWPlaceholderAPI]
